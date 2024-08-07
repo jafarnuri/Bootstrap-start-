@@ -1,0 +1,32 @@
+.bg-secondary {
+  background-color: rgb(44, 62, 80, 1) !important;
+}
+.nav-link {
+  color: #fff;
+}
+.navbar-brand {
+  color: #fff;
+}
+.collapse ul li a:hover {
+  color: #15967d;
+}
+.container > a:hover {
+  display: none;
+}
+.container > a {
+  font-weight: 700;
+}
+.collapse ul li a {
+  font-weight: 700;
+}
+
+.masthead-avatar {
+  width: 15rem;
+}
+.bg-primary {
+  background-color: rgb(26, 188, 156, 1) !important;
+}
+.masthead {
+  padding-top: calc(6rem + 74px);
+  padding-bottom: 6rem;
+}
